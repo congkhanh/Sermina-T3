@@ -1,0 +1,24 @@
+<?php /* Smarty version Smarty-3.1.19, created on 2014-11-06 10:28:56
+         compiled from "/home/vol9_6/byethost17.com/b17_15466088/htdocs/themes/default-bootstrap/modules/blocknewproducts/tab.tpl" */ ?>
+<?php /*%%SmartyHeaderCode:494539545aeaf8db8944-98482457%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+$_valid = $_smarty_tpl->decodeProperties(array (
+  'file_dependency' => 
+  array (
+    '6a80012e4c1877c814bd0d3284f0b71650d3aadf' => 
+    array (
+      0 => '/home/vol9_6/byethost17.com/b17_15466088/htdocs/themes/default-bootstrap/modules/blocknewproducts/tab.tpl',
+      1 => 1406832056,
+      2 => 'file',
+    ),
+  ),
+  'nocache_hash' => '494539545aeaf8db8944-98482457',
+  'function' => 
+  array (
+  ),
+  'has_nocache_code' => false,
+  'version' => 'Smarty-3.1.19',
+  'unifunc' => 'content_545aeaf8dbc1d4_86209155',
+),false); /*/%%SmartyHeaderCode%%*/?>
+<?php if ($_valid && !is_callable('content_545aeaf8dbc1d4_86209155')) {function content_545aeaf8dbc1d4_86209155($_smarty_tpl) {?>
+<li><a data-toggle="tab" href="#blocknewproducts" class="blocknewproducts"><?php echo smartyTranslate(array('s'=>'New arrivals','mod'=>'blocknewproducts'),$_smarty_tpl);?>
+</a></li><?php }} ?>
